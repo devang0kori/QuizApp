@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="next_button_color">#3297ca</color>
+    <color name="green">#069E0C</color>
+    <color name="red">#FFE31E0F</color>
+
+
+    <declare-styleable name="CustomProgressBar">
+        <attr name="progressColor" format="color" />
+    </declare-styleable>
+
+</resources>
